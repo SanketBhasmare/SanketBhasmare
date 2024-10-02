@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketbhasmare&label=Profile%20views&color=0e75b6&style=flat" alt="sanketbhasmare" /> </p>
 
+<img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 - 📫 How to reach me **sanketbhasmare64@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TC0ja6ypNHnFhwdzoy2D3PgdP5EZKNPS/view?usp=sharing](https://drive.google.com/file/d/1TC0ja6ypNHnFhwdzoy2D3PgdP5EZKNPS/view?usp=sharing)
+- 📄 Know about my experiences [Click here to get CV](https://drive.google.com/file/d/1TC0ja6ypNHnFhwdzoy2D3PgdP5EZKNPS/view?usp=sharing)
 
 
 
@@ -22,7 +24,6 @@
 
 
 
-<p align="right"> <img src="https://media.licdn.com/dms/image/v2/C4E12AQFS2orslcG6VA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1601654296846?e=1733356800&v=beta&t=Aq7l7_fFmKS9Quv6tAzHZ2DQmjrrMkZ5YvUJYqYvj4c" alt="git animation" /> </p>
 
 
 
