@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sanketbhasmare64@gmail.com**
 
-- 📄 Know about my experiences [Click here to get CV](https://drive.google.com/file/d/1TC0ja6ypNHnFhwdzoy2D3PgdP5EZKNPS/view?usp=sharing)
+- 📄 Know about my experiences [Click here to get CV](https://drive.google.com/file/d/1dEb25pBYb1r_Vbkmhw6GxNySBx_X6ya7/view?usp=sharing)
 
 
 
